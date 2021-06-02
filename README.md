@@ -1,6 +1,11 @@
 # Old-Languanges
 This app displays lists of vocabulary words for the user to learn the Miwok language. learn from Udacity Android Basics: Multiscreen Apps Course
 
+## Sreenshot
+
+![](/image/color.png) 
+![](/image/number.png)  
+
 ## App content
 * learn counting vocabulary words by litening 
 * learn basic color vocabulary words by litening
